@@ -1,4 +1,4 @@
-package property.testing;
+package mathops;
 
 public class MathOps {
 
